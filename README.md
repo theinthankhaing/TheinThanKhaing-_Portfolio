@@ -1,2 +1,2 @@
-# theinthankhaing_Portfolio
+# TheinThanKhaing_Portfolio
 Porfolio
