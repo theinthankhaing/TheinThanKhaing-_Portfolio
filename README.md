@@ -13,7 +13,7 @@
 * CPU is used
 * Pytorch is used
 
-![image](https://user-images.githubusercontent.com/50255936/110827029-a18b4700-82d0-11eb-9f74-eeacffe7f2b4.png)(https://github.com/theinthankhaing/Style-Transfer)
+[![image](https://user-images.githubusercontent.com/50255936/110827029-a18b4700-82d0-11eb-9f74-eeacffe7f2b4.png)](https://github.com/theinthankhaing/Style-Transfer)
 
 
 # Projects done in 2020
