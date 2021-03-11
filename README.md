@@ -24,7 +24,7 @@
 * Record those data inAWS IoT and Visualize them
 * Use AWS services, such as Lambda Function, SNS
 
-![image](https://user-images.githubusercontent.com/50255936/110676998-991f0780-820f-11eb-971a-77a077a1c67f.png)(https://github.com/theinthankhaing/IoT-Project-with-AWS-Cloud-Platform)
+[![image](https://user-images.githubusercontent.com/50255936/110676998-991f0780-820f-11eb-971a-77a077a1c67f.png)](https://github.com/theinthankhaing/IoT-Project-with-AWS-Cloud-Platform)
 
 # [Indoor Positioning System](https://github.com/theinthankhaing/Kalman-Filter-Project)
 
@@ -42,7 +42,7 @@
 * Google Colab is used
 * Tensorflow is used
 
-![shinkai](https://user-images.githubusercontent.com/50255936/110829939-9e458a80-82d3-11eb-9f8f-8499a40349d9.gif)(https://github.com/theinthankhaing/CartoonGAN)
+[![shinkai](https://user-images.githubusercontent.com/50255936/110829939-9e458a80-82d3-11eb-9f8f-8499a40349d9.gif)](https://github.com/theinthankhaing/CartoonGAN)
 
 # [Energy - Efficient Scheduling Algorithm to Reduce CPU Power Consumptions for Periodic Tasks in Real - Time Embedded System](https://github.com/theinthankhaing/Real-Time-Scheduling-Algorithm-Implementation)
 
@@ -58,7 +58,7 @@
 * Classification using Polynomial Regression
 * MATLAB is used
 
-![image](https://user-images.githubusercontent.com/50255936/110648154-6e26ba80-81f3-11eb-825c-9f5b729d587d.png)(https://github.com/theinthankhaing/Pattern-Recognition-Using-Eigen-Digits)
+[![image](https://user-images.githubusercontent.com/50255936/110648154-6e26ba80-81f3-11eb-825c-9f5b729d587d.png)](https://github.com/theinthankhaing/Pattern-Recognition-Using-Eigen-Digits)
 
 
 # [SVM for Classification of Spam Email Messages](https://github.com/theinthankhaing/SVM-for-Classification-of-Spam-Email-Messages)
@@ -76,7 +76,7 @@
 * Make Q-function converge to the optimal values
 * MATLAB is used
 
-![image](https://user-images.githubusercontent.com/50255936/110663943-eeecb300-8201-11eb-842d-1de07de58d5c.png)(https://github.com/theinthankhaing/Q-Learning-for-World-Grid-Navigation)
+[![image](https://user-images.githubusercontent.com/50255936/110663943-eeecb300-8201-11eb-842d-1de07de58d5c.png)](https://github.com/theinthankhaing/Q-Learning-for-World-Grid-Navigation)
 
 # Projects Done in 2019
 
@@ -89,7 +89,7 @@
 * CNN is used for classification
 * Python 3.6 and Tensorflow 2
 
-![image](https://user-images.githubusercontent.com/50255936/110513014-b8029880-8140-11eb-92f1-d9aac89ea026.png)(https://github.com/theinthankhaing/Head-Pose-Classification-and-Isolated-Word-Recognition-with-Vibration-of-Vocal-Folds-while-Talking)
+[![image](https://user-images.githubusercontent.com/50255936/110513014-b8029880-8140-11eb-92f1-d9aac89ea026.png)](https://github.com/theinthankhaing/Head-Pose-Classification-and-Isolated-Word-Recognition-with-Vibration-of-Vocal-Folds-while-Talking)
 
 # Projects Done in 2018
 
@@ -104,4 +104,4 @@
 * Sent the recognized output from MATLAB to ARDUINO using Bluetooth and  ARDUINO performed open and close of the door based on the recognition ouput
 * Obtained 90% of recognition accuracy for the user by using Vector Quantization for recognition
 
-[![image](https://user-images.githubusercontent.com/50255936/110493067-82a07f80-812d-11eb-9b45-171ac2a00629.png)](https://user-images.githubusercontent.com/50255936/110493627-c2fffd80-812d-11eb-9d85-9dbcbe91c5ad.mp4)(https://github.com/theinthankhaing/Implementation-of-Speech-Recognition-System-for-Security-Purposes)
+[[![image](https://user-images.githubusercontent.com/50255936/110493067-82a07f80-812d-11eb-9b45-171ac2a00629.png)](https://user-images.githubusercontent.com/50255936/110493627-c2fffd80-812d-11eb-9d85-9dbcbe91c5ad.mp4)](https://github.com/theinthankhaing/Implementation-of-Speech-Recognition-System-for-Security-Purposes)
