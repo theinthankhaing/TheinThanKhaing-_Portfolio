@@ -104,4 +104,4 @@
 * Sent the recognized output from MATLAB to ARDUINO using Bluetooth and  ARDUINO performed open and close of the door based on the recognition ouput
 * Obtained 90% of recognition accuracy for the user by using Vector Quantization for recognition
 
-[[![image](https://user-images.githubusercontent.com/50255936/110493067-82a07f80-812d-11eb-9b45-171ac2a00629.png)](https://user-images.githubusercontent.com/50255936/110493627-c2fffd80-812d-11eb-9d85-9dbcbe91c5ad.mp4)](https://github.com/theinthankhaing/Implementation-of-Speech-Recognition-System-for-Security-Purposes)
+[![image](https://user-images.githubusercontent.com/50255936/110493067-82a07f80-812d-11eb-9b45-171ac2a00629.png)](https://user-images.githubusercontent.com/50255936/110493627-c2fffd80-812d-11eb-9d85-9dbcbe91c5ad.mp4)
