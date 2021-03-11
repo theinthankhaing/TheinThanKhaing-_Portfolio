@@ -10,7 +10,7 @@
 * Pre - trained deep neural network, [SqueezeNet](https://arxiv.org/abs/1602.07360) is used
 * CPU is used
 * Pytorch is used
-__________________________________________________________________________________________________________________________________________
+
 # Projects done in 2020
 
 # [IoT Project with AWS Cloud Platform](https://github.com/theinthankhaing/IoT-Project-with-AWS-Cloud-Platform)
@@ -63,7 +63,7 @@ ________________________________________________________________________________
 * Make the robot reach the goal by maximizing the total reward of the trip
 * Make Q-function converge to the optimal values
 * MATLAB is used
-__________________________________________________________________________________________________
+
 # Projects Done in 2019
 
 # [Head-Pose-Classification-and-Isolated-Word-Recognition-with-Vibration-of-Vocal-Folds-while-Talking](https://github.com/theinthankhaing/Head-Pose-Classification-and-Isolated-Word-Recognition-with-Vibration-of-Vocal-Folds-while-Talking)
@@ -74,7 +74,7 @@ ________________________________________________________________________________
 * Both speech recognition and head postion classification are performed by using the vibration of speech signals recorded by Throat Microphone
 * CNN is used for classification
 * Python 3.6 and Tensorflow 2
-__________________________________________________________________
+
 # Projects Done in 2018
 
 # [Implementation of Speech Recognition System for Security Purposes](https://github.com/theinthankhaing/Implementation-of-Speech-Recognition-System-for-Security-Purposes)
