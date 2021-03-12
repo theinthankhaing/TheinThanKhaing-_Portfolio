@@ -85,7 +85,7 @@
 
 # Projects Done in 2019
 
-# [Head-Pose-Classification-and-Isolated-Word-Recognition-with-Vibration-of-Vocal-Folds-while-Talking](https://github.com/theinthankhaing/Head-Pose-Classification-and-Isolated-Word-Recognition-with-Vibration-of-Vocal-Folds-while-Talking)
+# [Head Pose Classification and Isolated Word Recognition with Vibration of Vocal Folds while Talking](https://github.com/theinthankhaing/Head-Pose-Classification-and-Isolated-Word-Recognition-with-Vibration-of-Vocal-Folds-while-Talking)
 
 * Accumulated audio voices of Isolated Japanese words and head positions from both male and female using Throat microphone
 * Labelled the audio with head postions
