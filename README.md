@@ -1,5 +1,7 @@
 # Portfolio
 
+# Deep Learning and Machine Learning Projects
+
 # Recent Projects
 
 # [Style Transfer](https://github.com/theinthankhaing/Style-Transfer)
@@ -19,25 +21,6 @@
 
 # Projects done in 2020
 
-# [IoT Project with AWS Cloud Platform](https://github.com/theinthankhaing/IoT-Project-with-AWS-Cloud-Platform)
-
-* Analyse [jet engine data](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan) and push to AWS, where AWS is Subscriber and Laptop is Publisher
-* Record those data inAWS IoT and Visualize them
-* Use AWS services, such as MQTT, Lambda Function, SNS
-* Programming Language - Python
-
-[![image](https://user-images.githubusercontent.com/50255936/110676998-991f0780-820f-11eb-971a-77a077a1c67f.png)](https://github.com/theinthankhaing/IoT-Project-with-AWS-Cloud-Platform)
-
-# [Indoor Positioning System](https://github.com/theinthankhaing/Kalman-Filter-Project)
-
-* Position is estimated by designing Kalman filter to reduce the effect of noise
-* Programming Language - MATLAB
-
-# [Computation Offloading for IoT Devices using Mobile-Edge Computing](https://github.com/theinthankhaing/Computation-Offloading-for-IoT-Devices-using-Mobile-Edge-Computing)
-
-* Make Survey on three algorithms of computation algorithms: LODCO, RLO and DPCOEM
-* Comparison of those three algorithm based on thier energy consumption and execution time
-
 # [Generate Anime using trained CartoonGAN](https://github.com/theinthankhaing/CartoonGAN)
 
 * Implemented by reading paper named ["CartoonGAN: Generative Adversarial Networks for Photo Cartoonization"](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf) and [GitHub repository](https://github.com/mnicnc404/CartoonGan-tensorflow?fbclid=IwAR2OpOh8hlc62EFxXpkeGDA5UV8CzxcXUKo8-JqtLoUvmb7gAYgjglRPU1Q)
@@ -47,12 +30,6 @@
 * Programming Language - Python
 
 [![shinkai](https://user-images.githubusercontent.com/50255936/110829939-9e458a80-82d3-11eb-9f8f-8499a40349d9.gif)](https://github.com/theinthankhaing/CartoonGAN)
-
-# [Energy - Efficient Scheduling Algorithm to Reduce CPU Power Consumptions for Periodic Tasks in Real - Time Embedded System](https://github.com/theinthankhaing/Real-Time-Scheduling-Algorithm-Implementation)
-
-* Implemented Dynamic Voltage and Frequency Scaling (ES - DVFS) and Dynamic Global Energy - Efficent Scheduling Based on the Actual Execution Time (DGAET) by reading papers
-* Compared these two algorithms
-* Programming Language - Python
 
 # [Pattern Recognition Using Eigen Digits](https://github.com/theinthankhaing/Pattern-Recognition-Using-Eigen-Digits)
 
@@ -112,3 +89,44 @@
 * Programming Languages - MATLAB, C++
 
 [![image](https://user-images.githubusercontent.com/50255936/110493067-82a07f80-812d-11eb-9b45-171ac2a00629.png)](https://user-images.githubusercontent.com/50255936/110493627-c2fffd80-812d-11eb-9d85-9dbcbe91c5ad.mp4)
+
+# AWS Project
+
+# Project Done in 2020
+
+# [IoT Project with AWS Cloud Platform](https://github.com/theinthankhaing/IoT-Project-with-AWS-Cloud-Platform)
+
+* Analyse [jet engine data](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan) and push to AWS, where AWS is Subscriber and Laptop is Publisher
+* Record those data inAWS IoT and Visualize them
+* Use AWS services, such as MQTT, Lambda Function, SNS
+* Programming Language - Python
+
+[![image](https://user-images.githubusercontent.com/50255936/110676998-991f0780-820f-11eb-971a-77a077a1c67f.png)](https://github.com/theinthankhaing/IoT-Project-with-AWS-Cloud-Platform)
+
+# Computer Control Project
+
+# Project Done in 2020
+
+# [Indoor Positioning System](https://github.com/theinthankhaing/Kalman-Filter-Project)
+
+* Position is estimated by designing Kalman filter to reduce the effect of noise
+* Programming Language - MATLAB
+
+# Multiprocessor and Real Time Scheduling System Projects
+
+# Projects Done in 2020
+
+# [Energy - Efficient Scheduling Algorithm to Reduce CPU Power Consumptions for Periodic Tasks in Real - Time Embedded System](https://github.com/theinthankhaing/Real-Time-Scheduling-Algorithm-Implementation)
+
+* Implemented Dynamic Voltage and Frequency Scaling (ES - DVFS) and Dynamic Global Energy - Efficent Scheduling Based on the Actual Execution Time (DGAET) by reading papers
+* Compared these two algorithms
+* Programming Language - Python
+
+# [Computation Offloading for IoT Devices using Mobile-Edge Computing](https://github.com/theinthankhaing/Computation-Offloading-for-IoT-Devices-using-Mobile-Edge-Computing)
+
+* Make Survey on three algorithms of computation algorithms: LODCO, RLO and DPCOEM
+* Comparison of those three algorithm based on thier energy consumption and execution time
+
+
+
+
