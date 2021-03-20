@@ -89,6 +89,7 @@
 * Programming Languages - MATLAB, C++
 
 [![image](https://user-images.githubusercontent.com/50255936/110493067-82a07f80-812d-11eb-9b45-171ac2a00629.png)](https://user-images.githubusercontent.com/50255936/110493627-c2fffd80-812d-11eb-9d85-9dbcbe91c5ad.mp4)
+________________________________________________________________________________
 
 # AWS Project
 
@@ -102,7 +103,7 @@
 * Programming Language - Python
 
 [![image](https://user-images.githubusercontent.com/50255936/110676998-991f0780-820f-11eb-971a-77a077a1c67f.png)](https://github.com/theinthankhaing/IoT-Project-with-AWS-Cloud-Platform)
-
+____________________________________________________
 # Computer Control Project
 
 # Project Done in 2020
@@ -111,7 +112,7 @@
 
 * Position is estimated by designing Kalman filter to reduce the effect of noise
 * Programming Language - MATLAB
-
+___________________________________________________________________
 # Multiprocessor and Real Time Scheduling System Projects
 
 # Projects Done in 2020
