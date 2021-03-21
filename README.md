@@ -113,7 +113,6 @@ ____________________________________________________
 * Position is estimated by designing Kalman filter to reduce the effect of noise
 * Programming Language - MATLAB
 
-____________________________________________________________________________
 # Multiprocessor and Real Time Scheduling System Projects
 
 # Projects Done in 2020
