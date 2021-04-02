@@ -4,7 +4,7 @@
 
 # Recent Projects
 
-# [Style Transfer](https://github.com/theinthankhaing/Style-Transfer)
+# [Neural Style Transfer](https://github.com/theinthankhaing/Style-Transfer)
 
 * Implemented this project based on paper titled, ["Image Style Transfer Using Convolutional Neural Networks"](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 * Take a content image and a style image 
